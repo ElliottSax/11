@@ -7,7 +7,9 @@ Results
 
 The website has several filter options on the left; Date, City, State, Country and Shape (of the UFO). 
 After the user fills out the search field and hits enter, the results are displayed to the right.
+![ufo](https://user-images.githubusercontent.com/88519111/157389703-742e42b5-8e8e-4ea6-ab2f-ff9f397fb076.PNG)
 
+![results](https://user-images.githubusercontent.com/88519111/157389720-705c1998-5e16-4d3a-929c-421d3e37c3f5.PNG)
 Summary
 
 It's worth noting that the searches are case sensitive. In the state field, "ca" will return results, "CA" will not.
